@@ -1,2 +1,5 @@
+pymed
+arxiv
+scholarly
 paperscraper
 wos
